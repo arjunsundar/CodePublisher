@@ -1,0 +1,23 @@
+
+                                      CodeAnalysis - Version 1.8
+    ==============================================================================================
+     Tue Feb  5 16:43:12 2019
+     Path: "C:\Users\Arjun\source\repos\D3\D3"
+     Args: D3.vcxproj, /v, /m, /r, /f, /p
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     1 dirs
+   processed     1 files
